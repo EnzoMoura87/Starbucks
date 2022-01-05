@@ -242,7 +242,7 @@ header .center .menu a:hover {
     .extras {
        background-image: url(assets1/img1.png);
        opacity: 0.2;
-       background-position: center;
+       background-position: bottom;
        background-size: cover;
     }
     .extras img {
